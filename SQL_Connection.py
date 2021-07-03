@@ -10,6 +10,10 @@ UID:sa
 Password:Password@123   
 192.168.101.79
 
+# Install pyodbc after if it is not working try second line
+# pip install pyodbc
+# pip install --upgrade pyodbc
+
 if ODBC issue is happen then we ened to follow below link.
 https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-ver15
 
